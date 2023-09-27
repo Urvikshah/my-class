@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>JK Patel Class</title>
